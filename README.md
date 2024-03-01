@@ -2,6 +2,7 @@
 This is Stone-Paper-Scissor Game
 made by - Manthan Jadav
 <br>
+<br>
 import random
 game_list= ["stone", "paper", "scissor"]
 computer = random.choice(game_list)
